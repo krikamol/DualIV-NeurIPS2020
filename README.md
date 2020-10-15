@@ -1,2 +1,2 @@
-# Dual Instrumental Variable Regression (NeurIPS2020)
+# Dual Instrumental Variable Regression (DualIV)
 An implementation of DualIV algorithm
